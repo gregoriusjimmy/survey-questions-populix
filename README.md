@@ -8,6 +8,10 @@ cd survey-questions-populix
 ```
 
 ```bash
+yarn
+```
+
+```bash
 yarn start
 ```
 
